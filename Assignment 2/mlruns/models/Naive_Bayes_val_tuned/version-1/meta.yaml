@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741110372745
+current_stage: None
+description: null
+last_updated_timestamp: 1741110372745
+name: Naive_Bayes_val_tuned
+run_id: 5a1368f1c724445195227e659fa2a2b3
+run_link: null
+source: file:///C:/Users/chaud/OneDrive/Desktop/Applied ML/Assignment 2/mlruns/610428365336286956/5a1368f1c724445195227e659fa2a2b3/artifacts/Naive_Bayes_val_tuned
+status: READY
+status_message: null
+storage_location: file:///C:/Users/chaud/OneDrive/Desktop/Applied ML/Assignment 2/mlruns/610428365336286956/5a1368f1c724445195227e659fa2a2b3/artifacts/Naive_Bayes_val_tuned
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chaud/OneDrive/Desktop/Applied ML/Assignment 2/mlruns/918975700612171805/c4bc2414f1ac495a8446cbaab8dbbe12/artifacts
+end_time: 1741111010359
+entry_point_name: ''
+experiment_id: '918975700612171805'
+lifecycle_stage: active
+run_id: c4bc2414f1ac495a8446cbaab8dbbe12
+run_name: Naive Bayes
+run_uuid: c4bc2414f1ac495a8446cbaab8dbbe12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741111010103
+status: 4
+tags: []
+user_id: chaud

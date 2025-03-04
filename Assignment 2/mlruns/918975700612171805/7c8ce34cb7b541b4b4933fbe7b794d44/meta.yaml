@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chaud/OneDrive/Desktop/Applied ML/Assignment 2/mlruns/918975700612171805/7c8ce34cb7b541b4b4933fbe7b794d44/artifacts
+end_time: 1741111094596
+entry_point_name: ''
+experiment_id: '918975700612171805'
+lifecycle_stage: active
+run_id: 7c8ce34cb7b541b4b4933fbe7b794d44
+run_name: Logistic Regression
+run_uuid: 7c8ce34cb7b541b4b4933fbe7b794d44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741111091890
+status: 3
+tags: []
+user_id: chaud

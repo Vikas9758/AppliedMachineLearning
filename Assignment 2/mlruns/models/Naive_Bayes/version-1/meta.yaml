@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741110145866
+current_stage: None
+description: null
+last_updated_timestamp: 1741110145866
+name: Naive_Bayes
+run_id: d3be205487dc401e9dc5b7549feab6e2
+run_link: null
+source: file:///C:/Users/chaud/OneDrive/Desktop/Applied ML/Assignment 2/mlruns/610428365336286956/d3be205487dc401e9dc5b7549feab6e2/artifacts/Naive_Bayes_val
+status: READY
+status_message: null
+storage_location: file:///C:/Users/chaud/OneDrive/Desktop/Applied ML/Assignment 2/mlruns/610428365336286956/d3be205487dc401e9dc5b7549feab6e2/artifacts/Naive_Bayes_val
+user_id: null
+version: 1

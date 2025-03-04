@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741110139872
+current_stage: None
+description: null
+last_updated_timestamp: 1741110139872
+name: Logistic_Regression
+run_id: abf4267062e04cee967491e80e4beb59
+run_link: null
+source: file:///C:/Users/chaud/OneDrive/Desktop/Applied ML/Assignment 2/mlruns/610428365336286956/abf4267062e04cee967491e80e4beb59/artifacts/Logistic_Regression_val
+status: READY
+status_message: null
+storage_location: file:///C:/Users/chaud/OneDrive/Desktop/Applied ML/Assignment 2/mlruns/610428365336286956/abf4267062e04cee967491e80e4beb59/artifacts/Logistic_Regression_val
+user_id: null
+version: 1
